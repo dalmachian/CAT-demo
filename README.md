@@ -1,7 +1,7 @@
 # CAT-demo
 R-based simulation of Computerized Adaptive Testing (CAT) using the catR package for a bachelors thesis on CAT
 
-## What It Does
+## cat_simulation
 - Creates a 3PL item bank with 50 items
 - Simulates a test-taker with a known ability
 - Selects items adaptively based on the Maximum Fisher Information (MFI) method
