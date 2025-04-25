@@ -1,5 +1,4 @@
-# cat_simulation.R
-# basic CAT simulation in R using the catR package (v3.17-compatible)
+# basic CAT simulation with generated item bank
 
 library(catR)
 

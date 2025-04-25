@@ -1,1 +1,22 @@
+```gitignore
 
+*.RData
+*.rds
+*.csv
+*.sav
+*.dta
+
+*.png
+*.pdf
+*.svg
+*.jpg
+
+*.model
+*.rda
+
+.DS_Store
+.Rhistory
+.Rproj.user/
+.Ruserdata
+
+*.Rproj
