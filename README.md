@@ -3,9 +3,9 @@ Various R-based Computerized Adaptive Testing (CAT) simulations using the catR p
 
 ## Scripts
 - Implements a standard CAT using the TCALS item bank (85 items, 4PL model)
-- Simulates 500 students with normally distributed abilities
+- Simulates 100 students with normally distributed abilities
 - Uses the catR package to simulate test taking behavior and item selection (EAP)
-- Trains ML models (logistic regression or random forset) to predict student responses
+- Trains ML models (logistic regression and random forset) to predict student responses
 - Compares CAT vs MLCAT using estimation accuracy (RMSE)
 
 ## Dataset used: TCALS
