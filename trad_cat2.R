@@ -2,6 +2,7 @@
 # traditional CAT simulation with MFI, genPattern, and subgroups for content balancing
 library(catR)
 
+# load TCALS item bank
 data(tcals)
 item_bank <- as.matrix(tcals[, 1:4])  # a, b, c, d columns (4PL)
 
